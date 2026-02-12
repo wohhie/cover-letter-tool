@@ -87,7 +87,7 @@ LinkedIn: https://www.linkedin.com/in/nazmush-shakib-mahmud-4383822ab
 
 Dear Hiring Manager,
 
-I am writing to express my interest in the [{{position}}] position in your organization with my 16 years of experience across corporate and military environments. I have a solid background in administration, executive support, organizational governance, and project coordination, supported by a proven track record of improving efficiency and controlling costs.
+I am writing to express my interest in the {{position}} position in your organization with my 16 years of experience across corporate and military environments. I have a solid background in administration, executive support, organizational governance, and project coordination, supported by a proven track record of improving efficiency and controlling costs.
 
 Presently, I am working as Assistant General Manager at itcroc where I supervise comprehensive administrative operations, documentation, procurement management, and project monitoring. Reduction of project cost and improved management visibility are enhanced through an efficient and structured administrative delivery and monitoring system. Previously, I provided senior-level executive and secretariat support to the vice chairman of Bashundhara Group. Standardized communication was established amongst internal and external stakeholders of the group that reduced operational costs. I implemented a structured administrative and tracking mechanism that assisted senior management during my tenure.
 
