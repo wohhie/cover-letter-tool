@@ -85,7 +85,7 @@ LinkedIn: https://www.linkedin.com/in/nazmush-shakib-mahmud-4383822ab
 {{companyAddressLine1}}
 {{companyAddressLine2}}
 
-Dear Hiring Manager,
+Dear Hiring Manager, 
 
 I am writing to express my interest in the {{position}} position in your organization with my 16 years of experience across corporate and military environments. I have a solid background in administration, executive support, organizational governance, and project coordination, supported by a proven track record of improving efficiency and controlling costs.
 
