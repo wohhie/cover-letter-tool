@@ -75,18 +75,13 @@ function safeSave(obj) {
 
 // ✅ Keep your template TEXT EXACTLY the same
 const DEFAULT_TEMPLATE = `Nazmush Shakib Mahmud
-
 Administrative and Organizational Management Professional
 Email: shakibmahmud9531@gmail.com
 Phone: +8801926082900
 LinkedIn: https://www.linkedin.com/in/nazmush-shakib-mahmud-4383822ab
 
 {{date}}
-
 {{employerName}}
-
-{{companyName}}
-
 {{companyAddressLine1}}
 {{companyAddressLine2}}
 
